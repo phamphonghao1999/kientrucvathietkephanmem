@@ -1,0 +1,92 @@
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll.config
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.pdb
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.dll
+C:\Users\Admin\Desktop\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.pdb
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll.config
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.pdb
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.dll
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.pdb
+C:\Users\Admin\Desktop\New folder (8)\full+csdl\doanwebbandongho\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.csprojResolveAssemblyReference.cache
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll.config
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\doanweb.Tests.pdb
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\doanweb.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\EntityFramework.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Optimization.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Facebook.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\ASPSnippets.GoogleAPI.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\doanweb.pdb
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Newtonsoft.Json.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Net.Http.Formatting.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Helpers.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Http.WebHost.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Mvc.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.Razor.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\EntityFramework.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\bin\Debug\Facebook.xml
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.csprojResolveAssemblyReference.cache
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.dll
+K:\website_ban_tivi-master\doanweb\doanweb.Tests\obj\Debug\doanweb.Tests.pdb
